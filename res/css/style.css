@@ -1,0 +1,46 @@
+body{
+    background-color: burlywood
+}
+#cookie{
+    display: block;
+    margin: 0 auto;
+    cursor: pointer
+}
+#counter{
+    font-size: 50px;
+    text-align: center;
+}
+#upgrade{
+    font-size: 30px;
+    padding: 20px;
+    cursor: pointer;
+    border: solid black thick;
+    display: block;
+    text-align: center;
+    margin: 0 auto
+}
+#upgrade2{
+    font-size: 30px;
+    padding: 20px;
+    cursor: pointer;
+    border: solid black thick;
+    display: block;
+    text-align: center;
+    margin: 0 auto
+}
+#upgrade3{
+    font-size: 30px;
+    padding: 20px;
+    cursor: pointer;
+    border: solid black thick;
+    display: block;
+    text-align: center;
+    margin: 0 auto
+}
+#autoclickercounter{
+    font-size: 30px;
+    text-align: center;
+}
+button:hover{
+    background-color: gray;
+}
