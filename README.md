@@ -1,2 +1,2 @@
 # cookieclicker
-[Spustit]{https://pablomikes.github.io/cookieclicker/}
+[View](https://pablomikes.github.io/cookieclicker/)
